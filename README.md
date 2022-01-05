@@ -1,2 +1,2 @@
 # sample-repo
-git練習用
+もう少しでLPIXELに申し込める
